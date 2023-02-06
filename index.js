@@ -225,9 +225,9 @@ const styles = `
   padding: 3px 5px;
   font: 11px ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
   line-height: 10px;
-  color: #24292f;
+  color: #ffffff;
   vertical-align: middle;
-  background-color: #f6f8fa;
+  background-color: #24292f;
   border: solid 1px rgba(175,184,193,0.2);
   border-bottom-color: rgba(175,184,193,0.2);
   border-radius: 6px;
